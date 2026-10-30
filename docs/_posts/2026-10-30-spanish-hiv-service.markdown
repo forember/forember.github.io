@@ -2,7 +2,7 @@
 layout: post
 title:  "Public Transit Access to Spanish-Language HIV Services"
 date:   2026-10-30 12:18 -0400
-categories: jekyll update
+categories: portfolio
 ---
 
 <style>
