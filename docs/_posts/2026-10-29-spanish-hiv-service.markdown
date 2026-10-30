@@ -32,6 +32,21 @@ categories: jekyll update
 ![Map of Need and Access](/assets/images/NeedAccessLayout.png){: class="border"}
 <span class="border caption" style="display: block; margin-top: 4px;"><strong>Figure 1.</strong> Access and need levels are mapped by US Census tract. Of particular note are the magenta areas, representing tracts with high need for public transit access to Spanish-language HIV services—defined as areas with above county average HIV rate, population of adults in poverty who speak Spanish, and population of Spanish speakers with limited English who do not drive to work—but low access to these services—defined as being more than 45 minutes by walking and public transit from an HIV clinic with staff who speak Spanish. Map by Emberlynn McKinney.</span>
 
+| Tract of Interest                           | 17.01 &amp; 17.02  | 19.10  | 38.10  |
+| ------------------------------------------- | ------------------ | ------ | ------ |
+| People who Speak Spanish                    | 37.8%              | 35.4%  | 44.7%  |
+| … of whom do not Speak English “Very Well”  | 88.0%              | 77.5%  | 82.8%  |
+| … of whom do not Drive Alone to Work        | 52.2%              | 62.2%  | 56.4%  |
+| People with Income Below Poverty Level      | 25.5%              | 22.3%  | 16.6%  |
+
+<p class="border caption"><strong>Table 2.</strong> Population statistics for four tracts highlighted in figure 1 above.</p>
+
+Highlighted in magenta in figure 1 above are areas with high need for public transit access to Spanish-language HIV services—defined as areas with above county average HIV rate, population of adults in poverty who speak Spanish, and population of Spanish speakers with limited English who do not drive to work—but low access to these services—defined as being more than 45 minutes by walking and public transit from an HIV clinic with staff who speak Spanish. Four specific US Census tracts are highlighted and summarized in table 2 below. The areas with the greatest need and lowest access tend to be on the periphery of Charlotte proper. Some areas closer to Uptown with high need do have good access, whereas areas in north, west, and southeast Mecklenburg County have low access but also low need.
+
+Areas with high need for but low access to Spanish-language HIV-related services could be well served by mobile HIV clinics with staff who speak Spanish. Mobile healthcare services are important stopgaps for meeting need in areas that otherwise would not have good access to those healthcare services. In addition, other providers in these areas may consider expanding the HIV-related services they provide or improving the accessibility of their services to those who do not speak English.
+
+Binary measures of need and access were used here to determine areas of interest, so further research could determine relative level of need and access. Further research could also potentially include collaboration with the qualifying providers to further identify underserved areas, as well as collaboration with providers in high need areas to improve the accessibility of their services to those who do not speak English.
+
 - - -
 
 ## Background
