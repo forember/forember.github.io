@@ -9,6 +9,7 @@ categories: jekyll update
   table {
     margin: 0px;
     margin-bottom: 4px;
+    font-size: 80%
   }
   .float {
     float: right;
@@ -29,7 +30,7 @@ categories: jekyll update
   }
 </style>
 
-![Map of Need and Access](/assets/images/NeedAccessLayout.png){: class="border"}
+![Map of Need and Access](/assets/images/NeedAccessLayout.png){: class="border" style="width: 98.5%;"}
 <span class="border caption" style="display: block; margin-top: 4px;"><strong>Figure 1.</strong> Access and need levels are mapped by US Census tract. Of particular note are the magenta areas, representing tracts with high need for public transit access to Spanish-language HIV services—defined as areas with above county average HIV rate, population of adults in poverty who speak Spanish, and population of Spanish speakers with limited English who do not drive to work—but low access to these services—defined as being more than 45 minutes by walking and public transit from an HIV clinic with staff who speak Spanish. Map by Emberlynn McKinney.</span>
 
 | Tract of Interest                           | 17.01 &amp; 17.02  | 19.10  | 38.10  |
