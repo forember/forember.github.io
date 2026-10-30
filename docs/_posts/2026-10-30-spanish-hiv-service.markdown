@@ -18,7 +18,7 @@ categories: portfolio
   }
   .float {
     float: right;
-    width: 50%;
+    width: calc(50% - 10px);
     margin: 4px;
   }
   .border {
@@ -58,7 +58,7 @@ Binary measures of need and access were used here to determine areas of interest
 ## Background
 
 ![Map of Service Area](/assets/images/03ServiceAreaLayout.png){: class="float border"}
-<span class="float border caption"><strong>Figure 2.</strong> The area accessible within 45 minutes by walking and public transit from an HIV clinic with staff who speak Spanish is mapped in blue. The Charlotte Area Transit System bus and tram lines are mapped in red. Map by Emberlynn McKinney.</span>
+<span class="float border caption"><strong>Figure 2.</strong> The area accessible within 45 minutes by walking and public transit from an HIV clinic with staff who speak Spanish is mapped in blue. The Charlotte Area Transit System bus and tram lines are mapped in red.</span>
 Language can be a key barrier to accessing quality healthcare, and so some healthcare providers ensure that they have people on staff who speak Spanish, either to directly provide care, or to translate between a provider and the patient. Language is especially important for effectively navigating the nuances of HIV prevention and treatment, often requiring extended counseling with a provider to land on a prevention or treatment plan. Areas of Mecklenburg County, North Carolina have very high rates of HIV infection. Roughly 3% of residents of ZIP code 28206—encompassing the Double Oaks, Tryon Hills, and Sugar Creek neighborhoods—are living with HIV. Mecklenburg also has over 100,000 adults who speak Spanish, 59% of whom do not speak English very well or at all. Many of these individuals also do not rely on a personal vehicle for getting to work or other daily activities. The Charlotte Area Transit System (CATS) provides bus and tram service to Mecklenburg County, and its network can be seen in figure 2 to the right.
 
 | Metrics of Adult Population who Speak Spanish  | Population  | Percentage  |
